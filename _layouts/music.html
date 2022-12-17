@@ -9,12 +9,10 @@ layout: default
           </header>
 
           <article>
-
             <div class="cv">
               {% for entry in site.data.music %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                  <p>I like music! I compose! I play piano! Here's some of my stuff:</p>
                   <div>
                   {% if entry.type == "list" %}
                     {% include cv/list.html %}
