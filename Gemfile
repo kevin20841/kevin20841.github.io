@@ -20,5 +20,5 @@ end
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
-    em 'wdm', '~> 0.1.0'
+    gem 'wdm', '~> 0.1.0'
 end
