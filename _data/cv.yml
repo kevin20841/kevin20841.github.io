@@ -1,16 +1,3 @@
-- title: Education
-  type: time_table
-  contents:
-    - title: Masters of Science
-      institution: Stanford
-      year: 2022-2023
-      description:
-
-    - title: Bachelors of Science
-      institution: Stanford
-      year: 2018-2022
-      description:
-
 - title: Coursework
   type: time_table
   contents:
