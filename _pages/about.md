@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email\:ksu20841@stanford.edu
+subtitle: Email: ksu20841@stanford.edu
 
 profile:
   align: right
