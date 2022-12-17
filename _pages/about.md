@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href = "mailto: ksu20841@stanford.edu">ksu20841@stanford.edu/a> 
+subtitle: asdf 
 
 profile:
   align: right
