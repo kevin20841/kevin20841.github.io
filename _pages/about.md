@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email:ksu20841@stanford.edu
+subtitle: <a href = "mailto: ksu20841@stanford.edu">ksu20841@stanford.edu/a> 
 
 profile:
   align: right
@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I'm Kevin Su, a masters student currently studying at Stanford University. 
+I'm Kevin Su, a masters student currently studying at Stanford University. I'm broadly interested in learning theory, complexity theory, and algorithmic fairness. 
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
