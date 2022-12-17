@@ -1,6 +1,26 @@
 - title: Composition
   type: time_table
   contents:
+    - title: Looking Out the Airplane Window, for Clarinet Quartet
+      year: 2022
+      items: 
+        - [recording](https://soundcloud.com/kevin-su-54400854/looking-outside-the-airplane-window)
+    - title: Sounds of Rusting Metal, for Wind Quintet
+      year: 2021
+      items: 
+        - TODO INSERT Compositions
+    - title: A Meditation of Two Paintings by Clyfford Still, for Pierrot Ensemble
+      year: 2020
+      items: 
+        - TODO INSERT Compositions
+    - title: Three Frames of Mind, for String Quartet
+      year: 2019
+      items: 
+        - TODO INSERT Compositions
+
+- title: Selected Performances
+  type: time_table
+  contents:
     - year: 2022
       items: 
-        - TODO INSERT COURSEWORK
+        - TODO INSERT Performances
