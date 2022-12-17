@@ -2,9 +2,11 @@
 layout: page
 permalink: /music/
 title: music
-description: TODO INSERT MUSIC
+description: 
 nav: true
 nav_order: 4
 ---
 
-INSERT MUSIC PROJECTS
+I write and perform music. Here are some of my favorite pieces!
+
+
