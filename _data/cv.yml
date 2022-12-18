@@ -1,6 +1,23 @@
-- title: Coursework
+- title: Theory Classes
   type: time_table
   contents:
     - year: 
       items: 
         - TODO INSERT COURSEWORK
+
+- title: Machine Learning Classes
+  type: time_table
+  contents:
+    - year: 
+      items: 
+        - TODO INSERT COURSEWORK
+
+- title: Math Classes
+  type: time_table
+  contents:
+    - year: 
+      items: 
+        - TODO INSERT COURSEWORK
+
+
+
