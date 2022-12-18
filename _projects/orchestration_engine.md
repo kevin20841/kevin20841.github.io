@@ -7,7 +7,7 @@ importance: 3
 category: work
 ---
 
-The Orchestration Engine is tool for computer-aided orchestration. It takes as input an arbitrary reference sound, and outputs an orchestration that best approximates the tambre of the input subject to instrumentation constraints. I have utilized this tool to write my own [pieces](/music/)
+The Orchestration Engine is tool for computer-aided orchestration. It takes as input an arbitrary reference sound, and outputs an orchestration that best approximates the tambre of the input subject to instrumentation constraints. I have utilized this tool to write my own [pieces](/music/).
 
 
 <div class="row">
