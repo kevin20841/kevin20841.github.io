@@ -18,6 +18,15 @@
       items: 
         -  <a href="https://soundcloud.com/kevin-su-54400854/three-frames-of-mind-for-string-quartet-2019" target="_blank">Soundclound Link</a>
       
+- title: Selected Piano Recordings
+  type: nested_list
+  contents:
+    - title: 
+      items:
+        - <a href="https://www.youtube.com/watch?v=DSdIhIn1CVg" target="_blank">    Brahms Quintet in F minor Mvt. 1, op. 34 </a>
+        - <a href="https://www.youtube.com/watch?v=SWfnZs1dE6o" target="_blank">    Poulenc Sextet Mvts. 1 and 3, FP 100</a>
+
+
 
 - title: Selected Piano Recordings
   type: nested_list

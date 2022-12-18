@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: asdf 
+subtitle: kevinsu20841@stanford.edu
 
 profile:
   align: right
