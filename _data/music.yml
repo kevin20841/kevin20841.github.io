@@ -22,5 +22,7 @@
 - title: Selected Piano Performance Recordings
   type: nested_list
   contents:
-    - title: <a href="https://soundcloud.com/kevin-su-54400854/https://www.youtube.com/watch?v=DSdIhIn1CVg" target="_blank">    Brahms Quintet in F minor, Mvt 1 op. 34 </a>
     - title: 
+      itmes:
+        - <a href="https://www.youtube.com/watch?v=DSdIhIn1CVg" target="_blank">    Brahms Quintet in F minor Mvt. 1, op. 34 </a>
+        - <a href="https://www.youtube.com/watch?v=SWfnZs1dE6o" target="_blank">    Poulenc Sextet Mvts. 1 and 3, FP 100</a>
