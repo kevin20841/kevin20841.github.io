@@ -1,9 +1,8 @@
 ---
 layout: page
-title: wiki-loaf
-description: A interdiciplinary online wiki for algorithmic fairness.
-img: assets/img/loaf_logo.PNG
-redirect: http://wiki-loaf.org
+title: Orchestration Engine
+description: A computer-aided orchestration tool.
+img: assets/img/spectra_slb_quart.png
 importance: 3
 category: work
 ---

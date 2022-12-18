@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --- 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

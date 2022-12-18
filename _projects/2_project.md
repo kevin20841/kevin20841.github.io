@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: The Orchestration Engine
+description: A tool for computer aided orchestration.
+img: assets/img/loaf_logo.PNG
+redirect: http://wiki-loaf.org
 importance: 2
 category: work
 ---
