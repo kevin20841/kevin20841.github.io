@@ -2,7 +2,7 @@
 layout: page
 title: Orchestration Engine
 description: A computer-aided orchestration tool.
-img: assets/img/spectra_slb_quart.png
+img: assets/img/spectra_clb_quart.png
 importance: 3
 category: work
 ---
