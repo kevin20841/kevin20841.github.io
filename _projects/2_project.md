@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Orchestration Engine
-description: A tool for computer aided orchestration.
+title: wiki-loaf.org
+description: An online interdiciplinary wiki for the field of algorithmic fairness.
 img: assets/img/loaf_logo.PNG
 redirect: http://wiki-loaf.org
 importance: 2
