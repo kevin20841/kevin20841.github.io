@@ -75,7 +75,7 @@ let initTheme = (theme) => {
         theme = 'dark';
     }
   }
-
+  // theme= 'dark'; // Make dark theme default here!
   setTheme(theme);
 }
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: wiki-loaf
+description: A interdiciplinary online wiki for algorithmic fairness.
+img: assets/img/loaf_logo.PNG
+redirect: https://wiki-loaf.org
 importance: 3
 category: work
 ---
