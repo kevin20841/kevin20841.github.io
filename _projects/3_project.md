@@ -3,7 +3,7 @@ layout: page
 title: wiki-loaf
 description: A interdiciplinary online wiki for algorithmic fairness.
 img: assets/img/loaf_logo.PNG
-redirect: wiki-loaf.org
+redirect: http://wiki-loaf.org
 importance: 3
 category: work
 ---
