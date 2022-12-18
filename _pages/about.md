@@ -16,6 +16,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I'm Kevin Su, a masters student currently studying Computer Science Theory at Stanford University. I'm broadly interested in learning theory, complexity theory, and algorithmic fairness. I also love playing classical piano and writing music.
+I'm Kevin Su, a masters student currently studying Computer Science Theory at Stanford University. In computer science, I'm broadly interested in learning theory, complexity theory, and algorithmic fairness. 
 
-Contact me at kevinsu20841@stanford.edu.
+I also enjoy playing classical piano and writing music. My main compositional interests include exploring the limits of sound and timbre. I gravitate most towards music written in the "<i> spectral</i> style. 
+
+Contact me at kevinsu20841@stanfordz.edu.
