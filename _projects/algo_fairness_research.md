@@ -6,7 +6,7 @@ img: assets/img/undraw_a_better_world_9xfd.png
 importance: 1
 category: work
 ---
-<b> Check back soon for some more exciting updates on the research I am doing!</b>
+<strong> Check back soon for some more exciting updates on the research I am doing!</strong>
 
 #### Current Research
 I'm currently conducting research in algorithmic fairness, with the Prof. Omer Reingold. I'm (preliminarily) investigating domain adaptation in the context of algorithmic fairness from an information theoretic point of view.
