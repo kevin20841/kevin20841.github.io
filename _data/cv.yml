@@ -1,4 +1,4 @@
-- title: Theory Classes
+- title: theory classes
   type: time_table
   contents:
     - year: 
@@ -19,7 +19,7 @@
         - CS 359A - Research Seminar in Complexity Theory
         - CS 368 - Algorithmic Techniques for Big Data
 
-- title: Machine Learning Classes
+- title: machine learning classes
   type: time_table
   contents:
     - year: 
@@ -28,7 +28,7 @@
         - CS 230 - Deep Learning
         - CS 329D - Machine Learning under Distribution Shifts
 
-- title: Math Classes
+- title: math classes
   type: time_table
   contents:
     - year: 
@@ -38,7 +38,7 @@
         - Math 107 - Graph Theory
         - Phil 151 - Metalogic
 
-- title: Music Classes
+- title: music classes
   type: time_table
   contents:
     - year: 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: algorithmic fairness research
+title: Algorithmic Fairness Research
 description:
 img: assets/img/undraw_a_better_world_9xfd.png
 importance: 1
