@@ -1,7 +1,7 @@
 ---
 layout: page
 title: wiki-loaf.org
-description: An online interdiciplinary wiki for the field of algorithmic fairness.
+description: an online interdiciplinary wiki for the field of algorithmic fairness. Opens a new tab.
 img: assets/img/loaf_logo.PNG
 redirect: http://wiki-loaf.org
 importance: 2
