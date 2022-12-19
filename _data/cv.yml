@@ -3,28 +3,48 @@
   contents:
     - year: 
       items: 
-        - TODO INSERT COURSEWORK
+        - CS 154 - Introduction to Automata and Complexity Theory
+        - CS 166 - Data Structures
+        - CS 168 - The Modern Algorithmic Toolbox
+        - CS 229M - Machine Learning Theory
+        - CS 242 - Programming Languages
+        - CS 250 - Algebraic Error Correcting Codes
+        - CS 251 - Cryptocurrencies and Blockchain Technologies
+        - CS 254 - Computational Complexity
+        - CS 254B - Computational Compelxity II
+        - CS 257 - Introduction to Automated Reasoning     
+        - CS 261 - Optimization and Algorithmic Paradigms
+        - CS 263 - Counting and Sampling
+        - CS 355 - Advanced Topics in Cryptography
+        - CS 359A - Research Seminar in Complexity Theory
+        - CS 368 - Algorithmic Techniques for Big Data
 
 - title: Machine Learning Classes
   type: time_table
   contents:
     - year: 
       items: 
-        - TODO INSERT COURSEWORK
+        - CS 229 - Machine Learning
+        - CS 230 - Deep Learning
+        - CS 329D - Machine Learning under Distribution Shifts
 
 - title: Math Classes
   type: time_table
   contents:
     - year: 
       items: 
-        - TODO INSERT COURSEWORK
+        - Math 61CM - Modern Mathematics, Continous Methods 
+        - Math 62DM - Modern Matehmatics, Discrete Methods
+        - Math 107 - Graph Theory
+        - Phil 151 - Metalogic
 
-
-- title: Systems Classes
+- title: Music Classes
   type: time_table
   contents:
     - year: 
       items: 
-        - TODO INSERT COURSEWORK
+        - Music 21- Music Theory
+        - Music 112 - Film Scoring
+        - Music 127B - Advanced Orchestration
 
 
