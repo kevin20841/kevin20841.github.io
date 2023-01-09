@@ -15,4 +15,5 @@ I'm currently conducting research in algorithmic fairness, with the Prof. Omer R
 
 With Amir Zur, I furthered some impossibility results between the two group fairness notions calibration and equalized odds. A (then recent) paper had proposed a way to reconcile the two notions by constructing a classifier that satisfies equalized odds using a calibrated predictor given a single threshold, seemingly violating the impossibility result. Using that paper as inspiration, we added two more necessary conditions to the original impossibility result to reconcile the contradiction.
 
-(Poster)[{{ /assets/pdf/calibration_pdf_poster.pdf | relative_url }}]
+[Poster.](assets/img/calibration_pdf_poster.pdf)
+
