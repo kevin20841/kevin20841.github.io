@@ -1,5 +1,5 @@
 - title: selected compositions
-  type: nested_list
+  type: list
   contents:
     - items:
         - Asian American Yellowface (2024)
