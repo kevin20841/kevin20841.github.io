@@ -2,12 +2,12 @@
   type: list
   contents:
     - <em>Asian American Yellowface</em>, for tenor sax and fixed media (2024)
-    - _Su-qin_, for two players on one piano (2024)
-    - _The Frozen Lake Whispers Sweetly_, for prepared string quartet (2023)
-    - _Looking Out the Airplane Window_, for Clarinet Quartet (2022)
-    - _Sounds of Rusting Metal_, for Wind Quintet (2021)
-    - _A Meditation of Two Paintings by Clyfford Still_, for Pierrot Ensemble (2020)
-    - _Three Frames of Mind_, for String Quartet (2019)
+    - <em>Su-qin</em>, for two players on one piano (2024)
+    - <em>The Frozen Lake Whispers Sweetly</em>, for prepared string quartet (2023)
+    - <em>Looking Out the Airplane Window</em>, for Clarinet Quartet (2022)
+    - <em>Sounds of Rusting Metal</em>, for Wind Quintet (2021)
+    - <em>A Meditation of Two Paintings by Clyfford Still</em>, for Pierrot Ensemble (2020)
+    - <em>Three Frames of Mind</em>, for String Quartet (2019)
 
 - title: selected piano recordings
   type: nested_list
