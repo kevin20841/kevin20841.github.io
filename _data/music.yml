@@ -1,22 +1,13 @@
 - title: selected compositions
   type: list
   contents:
-    - items:
-        - Asian American Yellowface (2024)
-        - Su-qin (2024)
-        - The Frozen Lake Whispers Sweetly (2023)
-        - Looking Out the Airplane Window, for Clarinet Quartet (2022)
-        - Sounds of Rusting Metal, for Wind Quintet (2021)
-        - A Meditation of Two Paintings by Clyfford Still, for Pierrot Ensemble (2020)
-        - Three Frames of Mind, for String Quartet (2019)
-
-    - title: Asian American Yellowface (2024)
-    - title: Su-qin (2024)
-    - title: The Frozen Lake Whispers Sweetly (2023)
-    - title: Looking Out the Airplane Window, for Clarinet Quartet (2022)
-    - title: Sounds of Rusting Metal, for Wind Quintet (2021)
-    - title: A Meditation of Two Paintings by Clyfford Still, for Pierrot Ensemble (2020)
-    - title: Three Frames of Mind, for String Quartet (2019)
+    - Asian American Yellowface (2024)
+    - Su-qin (2024)
+    - The Frozen Lake Whispers Sweetly (2023)
+    - Looking Out the Airplane Window, for Clarinet Quartet (2022)
+    - Sounds of Rusting Metal, for Wind Quintet (2021)
+    - A Meditation of Two Paintings by Clyfford Still, for Pierrot Ensemble (2020)
+    - Three Frames of Mind, for String Quartet (2019)
 
 - title: selected piano recordings
   type: nested_list
