@@ -1,9 +1,8 @@
-- title: composition
-  type: list
+- title: selected compositions
+  type: nested_list
   contents:
-    - title: Looking Out the Airplane Window, for Clarinet Quartet
-      year: 2022
-      items:
+    -
+    - title: Looking Out the Airplane Window, for Clarinet Quartet (2022)
         - As the title suggests, this piece was inspired by the view when looking out an airplane window. I fly often between Stanford and Maryland. Every time I do so, I see the rugged rocky mountains, then the beautiful plains of the Midwest, all dyed by the colors of the setting sun. The beginning of this piece emulates the noise of an airplane in flight. As the piece progresses, the airplane sounds melt away into those beautiful colors that frame the window of the Airplane.
         - <a href="https://soundcloud.com/kevin-su-54400854/looking-outside-the-airplane-window" target="_blank">SoundCloud Link</a>
     - title: Sounds of Rusting Metal, for Wind Quintet
