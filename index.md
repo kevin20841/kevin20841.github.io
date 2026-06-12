@@ -1,7 +1,7 @@
 ---
-title: /
+title: kevin su
 layout: home
-permalink: /
+permalink: /kevin su
 ---
 
 # Lorem ipsum
