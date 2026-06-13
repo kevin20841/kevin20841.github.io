@@ -2,9 +2,10 @@
 
 header_pages:
   - index.md
-  - about.md
+  - pages/works.md
+  - pages/bio.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: "contact me @ ksu1@gc.cuny.edu"
 
 plugins:
   - jekyll-seo-tag
