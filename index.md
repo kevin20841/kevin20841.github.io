@@ -10,7 +10,6 @@ I am a composer, pianist, music scholar, and computer scientist currently pursui
 
 My varied interests mean that my practice spans the acoustic, the electroacoustic, and the acousmatic. I explore ways of questioning, unsettling, and destabilizing "universal" aesthetic notions about meaning and perception in experimental art music. I also play with notions of legibility/illegibility by making music that signifies differently to different groups of people. 
 
-
 <br>
 
 ## current research interests
