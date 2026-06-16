@@ -6,7 +6,7 @@ permalink: /
 
 # home
 
-I am a composer, pianist, music scholar, and (semi-retired) computer scientist. Compositionally, I am interested in ways of questioning, unsettling, and destabilizing "universal" aesthetic notions about meaning and listening considered stable in experimental art music. I am also intrigued by notions of legibility/illegibility, and making music that signifies differently to different people.
+I am a composer, pianist, music scholar, and computer scientist currently pursuing a PhD in music composition at the CUNY graduate center. I am interested in ways of questioning, unsettling, and destabilizing "universal" aesthetic notions about meaning and listening considered stable in experimental art music. I am also intrigued by notions of legibility/illegibility, and making music that signifies differently to different people.
 <br>
 ## research interests
 
