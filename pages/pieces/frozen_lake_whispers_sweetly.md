@@ -4,18 +4,10 @@ layout: page
 permalink: /frozen_lake_whispers_sweetly
 ---
 
-<iframe 
-  src="https://samply.app/embed/Qu6A8SuJ7mVNSrZUKHlR?si=xsjSORGIDEddYT4M0xgQj2JitXj1" 
-  frameborder="0"
-  allowtransparency="true"
-  width="100%"
-  
-></iframe>
-
+# The Frozen Lake Whispers Sweetly
 
 <br>
-The Frozen Lake Whispers Sweetly was inspired by my childhood memories of visiting a local lake, during the dead of winter. The winters in Maryland get awfully cold, but are not without beauty. I remember gazing upon the body of water and being transfixed by its gray pristineness. I wanted to evoke the sounds of the breeze across the lake ice, the faint echo of wind chimes, and the subtle sound of crackling. It was almost as if the lake whispered to me, invited me, to join its quiet repose.
-
+_The Frozen Lake Whispers Sweetly_ was inspired by my childhood memories of visiting a local lake, during the dead of winter. The winters in Maryland get awfully cold, but are not without beauty. I remember gazing upon the body of water and being transfixed by its gray pristineness. I wanted to evoke the sounds of the breeze across the lake ice, the faint echo of wind chimes, and the subtle sound of crackling. It was almost as if the lake whispered to me, invited me, to join its quiet repose.
 
 <br>
 
