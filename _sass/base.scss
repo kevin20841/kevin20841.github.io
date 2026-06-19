@@ -9,14 +9,14 @@ $mobile-font-size:     12px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
 $container-max-width:  700px !default;
-$header-width:  calc(0.4 * 100%);
-$footer-width:  calc(0.6 * 100%);
+$header-width:  calc(0.2 * 100%);
+$footer-width:  calc(0.65 * 100%);
 /**
  * Global
  */
 body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
-h2, h3, h4, h5, h6 { font-size: $base-font-size;  margin: 0px;  margin-top: 5px;  font-weight: normal; font-style: italic; color: var(--text-color); }
-h1 {margin: 0px;  margin-top: 5px;  font-weight: normal; font-style: italic; color: var(--text-color); font-size: $base-font-size + 1; border-bottom:var(--border); width: $header-width; margin-bottom:5px;}
+h2, h3, h4, h5, h6 { font-size: $base-font-size+2;  margin: 0px;  margin-top: 5px;  font-weight: normal; font-style: italic; color: var(--text-color); }
+h1 {margin: 0px;  margin-top: 5px;  font-weight: normal; font-style: normal; color: var(--text-color); font-size: $base-font-size + 3; border-bottom:var(--border); width: $header-width; margin-bottom:20px; text-align: center;}
 p, ul, ol { margin: 0px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--selection-background); }
@@ -27,8 +27,8 @@ a:hover { color: var(--background-color); background-color: var(--selection-back
  */
 .container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; margin-bottom: 15px; }
-footer { color: var(--text-color);  border-top: var(--border); margin: 20px 0 25px $footer-width;  padding-top: 0px;  text-align: right; }
-header { margin-top: 25px;  margin-bottom: 15px; }
+footer { color: var(--text-color);  border-top: var(--border); margin: 20px 0 25px $footer-width;  padding-top: 0px;  text-align: center; }
+header { margin-top: 25px;  margin-bottom: 20px;}
 header p { text-align: left;  margin: 0; }
 
 /**
@@ -47,8 +47,8 @@ header p { text-align: left;  margin: 0; }
 /**
  * Header/Navigation
  */
-.menu { font-size: $base-font-size; border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 12px; }
-.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
+.menu { font-size: $base-font-size + 4; border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 12px; font-style: italic;}
+.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; vertical-align: middle;}
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--selection-background); }
@@ -148,10 +148,11 @@ img.left {
 .floatleft {
     float:left;
     margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 .nomargin{
   margin-left: 0px !important;
-  font-size: $base-font-size + 4
 }
 
 .performance_list {
