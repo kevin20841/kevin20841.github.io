@@ -6,6 +6,7 @@ permalink: /I_Ching
 ## I, Ching
 for soprano, mezzo, countertenor, tenor, baritone, bass, and live electronics
 duration: 9'45
+written 2026
 <br> 
 By virtue of my name and my face, performances of my pieces are imbricated with various reified notions, including neoliberal conceptions of identity and culture, the intercultural framing of combining East and West, and the discursively constructed categories of the folk and the classical. Undergirding all these ideas is the specter of U.S. imperial power.
 
@@ -17,7 +18,7 @@ performed by Ekmeles
 
 <br>
 
-[listen here](https://on.soundcloud.com/hRzOYMpHt3CaMYhvMh){:target="_blank"} (I recommend using headphones)
+[listen here](https://on.soundcloud.com/E7SpiSwYQGaCtU5hUy){:target="_blank"} (I recommend using headphones)
 
 
 

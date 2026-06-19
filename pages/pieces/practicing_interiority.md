@@ -7,6 +7,7 @@ permalink: /practicing_interiority
 ## Practicing Interiority
 for flute + string trio
 duration: 7'46
+written 2026
 <br>
 What better way is there to prove my own subjectivity to you than to write a piece featuring a melody from a song from my childhood, 不了情? 
 
